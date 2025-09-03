@@ -1,4 +1,4 @@
-# Mark Heaven — Full-Stack Developer Resume
+# Ishaan Taneja — Full-Stack Developer Resume
 
 This repository contains my **Full-Stack Developer resume** in Markdown format, with automated builds to PDF and DOCX using **Pandoc** and **GitHub Actions**. It is lightweight, version-controlled, and GitHub-ready.  
 
